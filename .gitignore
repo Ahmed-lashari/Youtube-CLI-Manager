@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Output folder
+build/
+
+# Logs
+*.log
+
+# Optional: OS/System files
+.DS_Store
+Thumbs.db
+
+src/config/env-variables.ts
+
+
+# tsc build info
+.tsbuildinfo
+
+# compilation files:
+
+.prettierrc.js
+
+# build compiled file
+.tsbuildinfo
+
+tsconfig.json
+
+downloads/files/
